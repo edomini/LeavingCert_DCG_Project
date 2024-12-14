@@ -12,8 +12,6 @@ innovation, etc.
 ## (b)
 Show graphically how you would physically modify a chosen bedside alarm clock to improve
 its overall design.
-
-or
-
+### or
 Develop and graphically communicate a new concept design for a bedside alarm clock based
 on a selected theme or target market.
