@@ -10,9 +10,13 @@ etc.
 (a) Carry out a design investigation of existing bedside alarm clocks in graphic format. Your
 investigation should include an analysis of physical forms and shapes, geometry, materials,
 innovation, etc.
+
 and
+
 (b) Show graphically how you would physically modify a chosen bedside alarm clock to improve
 its overall design.
+
 or
+
 Develop and graphically communicate a new concept design for a bedside alarm clock based
-on a selected theme or target market. 
+on a selected theme or target market.
